@@ -135,7 +135,7 @@ android {
         multiDexEnabled true
         minSdkVersion 18
         missingDimensionStrategy 'react-native-camera', 'general'
-        targetSdkVersion 28
+        targetSdkVersion 29
         versionCode 4502
         versionName "4.5.2"
         ndk {
